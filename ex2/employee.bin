@@ -1,0 +1,20 @@
+[?2004l
+[0] 1 IU
+[1] 2 taylor
+[2] 3 swift
+employee id = 1
+employee name = IU
+employee age = 20
+employee salsry = 30000.000000
+
+employee id = 2
+employee name = taylor
+employee age = 26
+employee salsry = 36000.000000
+
+employee id = 3
+employee name = swift
+employee age = 31
+employee salsry = 90000.000000
+
+[?2004h
